@@ -72,6 +72,25 @@ This project demonstrates how historical data can be converted into **actionable
 
 ---
 
+## Visual Insights
+The following charts are included to help investors quickly understand
+price trends, volatility, and future expectations:
+
+- Actual vs Predicted Prices
+Caption:
+
+This comparison demonstrates how closely the predictive model follows historical price movements, indicating forecast reliability.
+
+![TCS Stock Data Analyis and Prediction](graphs/Figure_1.png)
+
+- Future Price Forecast
+Caption:
+
+The forecasted trend is based on historical price patterns and highlights potential future price direction. Forecasts are indicative and not guaranteed.
+
+![TCS Stock Data Analyis and Prediction](graphs/Figure_2.png)
+
+
 ## Author
 
 **Anoushka Thakur**
